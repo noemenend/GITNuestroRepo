@@ -28,7 +28,7 @@ No ha causado ningun conflicto.
 **¿Por qué?** Porque styled contenia los *commits* de master
 
 6. **¿Que comando o comandos utilizaste en el paso 25?**  
-`git log --graph`  
+`git graph`, porque previamente creé ese alias para evitar teclear el comando completo: `git log --graph --decorate --pretty=oneline`  
 
 7. **El merge del paso 26, ¿Podría ser fast forward?** 
 Si podría ser fast forward.  
